@@ -11,6 +11,10 @@
   align-items: center;
 }
 
+.shopcategory-indexSort p {
+  color: #ffffff;
+}
+
 .shopcategory-sort_dark {
   font-family: inherit;
   text-align: center;
